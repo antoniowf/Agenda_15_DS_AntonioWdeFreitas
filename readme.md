@@ -72,7 +72,9 @@ Depois, é só abrir o arquivo `index.html` no seu navegador. Não é necessári
 
 Feito por **[@antoniowf](https://github.com/antoniowf)**
 
-<img src="https://avatars.githubusercontent.com/u/103590500?v=4" style="border-radius: 50%; box-shadow: rgba(245, 245, 245, 0.466) 0px 0px 1em ;">
+<a href="https://github.com/antoniowf/Agenda_15_DS_AntonioWdeFreitas/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=antoniowf/Agenda_15_DS_AntonioWdeFreitas" />
+</a>
 <br>
 <br>
 😁 Se gostou do projeto, deixe uma estrela no repositório  ⭐
